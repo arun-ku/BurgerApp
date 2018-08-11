@@ -1,0 +1,9 @@
+export const GET_FOOD_START = 'GET_FOOD_START';
+export const GET_FOOD_SUCCESS = 'GET_FOOD_SUCCESS';
+export const GET_FOOD_ERROR = 'GET_FOOD_ERROR';
+
+export const STATUS = {
+  LOADING: 'LOADING',
+  SUCCESS: 'SUCCESS',
+  ERROR: 'ERROR',
+};
